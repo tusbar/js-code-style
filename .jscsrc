@@ -17,7 +17,15 @@
 
     "disallowMultipleVarDecl": "exceptUndefined",
 
-    "requireCurlyBraces": true,
+    "requireCurlyBraces": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "do",
+        "try",
+        "catch"
+    ],
     "requireOperatorBeforeLineBreak": true,
     "requireSpaceAfterKeywords": true,
     "requireSpaceBeforeBinaryOperators": true,
