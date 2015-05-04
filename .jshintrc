@@ -9,5 +9,7 @@
     "eqnull": true,
     "node": true,
 
+    "sub": true,
+
     "predef": ["-Promise"]
 }
