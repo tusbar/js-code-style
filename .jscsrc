@@ -11,8 +11,10 @@
     "validateLineBreaks": "LF",
 
     "disallowMultipleLineStrings": true,
+    "disallowNewlineBeforeBlockStatements": true,
     "disallowMixedSpacesAndTabs": true,
     "disallowTrailingWhitespace": true,
+    "disallowPaddingNewlinesInBlocks": true,
     "disallowSpaceAfterPrefixUnaryOperators": true,
 
     "disallowMultipleVarDecl": "exceptUndefined",
